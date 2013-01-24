@@ -1,0 +1,76 @@
+<script language="javascript">
+function calcular(){  
+   var valorDolar = 0;
+   var montoIVA = 0;
+   var cotizarDolar = 0;
+   var margen = 0;
+
+   var valorDolar = (parseFloat(document.formGenerador.valorDolar.value)); 
+ 
+	if(document.formGenerador.montoIVA.value == "21"){  
+		var montoIVA = 21;  
+	}else if(document.formGenerador.montoIVA.value == "10.5"){  
+		var montoIVA = 10.50;  
+	}else{
+		var montoIVA = 0;
+    }  
+     
+ var cotizarDolar= (parseFloat(document.formGenerador.cotizarDolar.value)); 
+
+ var margen= document.formGenerador.margen.value    
+
+/*Precio con IVA */
+ var precioIvaIncluido = valorDolar+(valorDolar*montoIVA/100);
+ document.formGenerador.ivaIncluido.value = (parseFloat(precioIvaIncluido)).toFixed(2);
+
+/*Valor a depocitar */
+ var valorDepositar = (valorDolar+(valorDolar*montoIVA/100))*cotizarDolar;
+ document.formGenerador.valorDepositar.value = (parseFloat(valorDepositar)).toFixed(2);
+
+/* Precio Final.*/
+ var precioFinal = ((valorDolar+(valorDolar*montoIVA/100))*cotizarDolar) + (((valorDolar+(valorDolar*montoIVA/100))*cotizarDolar)*margen/100); 
+ document.formGenerador.total.value = (parseFloat(precioFinal)).toFixed(2);
+}
+</script>
+
+<table width="75%" border="0">
+
+<form name="formGenerador" action="" method="post">
+  <tr>
+    <td><label>Valor en D&oacute;lares:</label></td>
+    <td><input id="valorDolar" class="inputForm" name="valorDolar" type="text" value="72.12" /></td>
+  </tr>
+  <td><label>Tipo de IVA:</label></td>
+    <td><select id="montoIVA" name="montoIVA">
+                  <option>Elige tipo de IVA</option> 
+                  <option value="21">21 %</option> 
+                  <option value="10.5">10.5 % </option>
+             </select>
+    </td>
+  </tr>
+  <tr>
+    <td><label>Precio IVA Incluido:</label></td>
+	<td><input type="text" value="" size="20"  name="ivaIncluido" id="ivaIncluido" readonly="readonly"/></td>
+  </tr>
+  <tr>
+    <td><label>Cotizaci&oacute;n: del D&oacute;lar (Compra):</label></td>
+    <td><input id="cotizarDolar" name="cotizarDolar" size="20" type="text" value="4.96" /></td>
+  </tr>
+  <tr>
+    <td><label>Margen de Ganancia:</label></td>
+    <td><input id="margen" name="margen" size="20" type="text" value="30" />(Ejemplo: 30, 40, Sin el %)</td>
+  </tr>
+   <tr>
+    <td><label>Valor a Depositar:</label></td>
+	<td><input type="text" value="" size="20"  name="valorDepositar" id="valorDepositar" readonly="readonly"/></td>
+  </tr>
+   <tr>
+    <td><input type="button" name="calcula" onclick="calcular();" value="Calcula el precio final" /></td>
+   </tr>
+   <tr>
+   <td><label>Precio Final:</label></td>
+	<td><input type="text" value="" size="20"  name="total" id="total" readonly="readonly"/></td>
+   </tr>
+
+ </form>
+</table>

@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"feed",
+				"feed"
+			],
+			[
+				"Dragon",
+				"Dragon"
+			],
+			[
+				"or",
+				"orange_count"
+			],
+			[
+				"Orang",
+				"OrangeTree"
+			],
+			[
+				"ora",
+				"oranges"
+			],
+			[
+				"y",
+				"year_old"
+			],
+			[
+				"oran",
+				"orange_count"
+			],
+			[
+				"el",
+				"elsif	elsif ..."
+			],
+			[
+				"co",
+				"cotizarDolar"
+			],
+			[
+				"Ge",
+				"GeneradorPrecios"
+			],
+			[
+				"fech",
+				"fecha_vieja"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"lista",
+				"listaDesordenada"
+			],
+			[
+				"Li",
+				"listaDesordenada"
+			],
+			[
+				"M",
+				"M"
+			],
+			[
+				"tou",
+				"tough_var"
+			],
+			[
+				"iA",
+				"iAnoActual"
+			],
+			[
+				"ran",
+				"randomYear"
+			],
+			[
+				"Elefantes",
+				"Elefantes"
+			],
+			[
+				"Mi",
+				"MinutesInADecade"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "EncodingUTF8.rb",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/BORRAME/test.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/Dragon.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/TableOfContents.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/OrangeTree.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/PricesGenerator.rb",
+		"/C/Documents and Settings/ComunidadTIC/Datos de programa/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/PriceGenerator.rb",
+		"/C/Documents and Settings/ComunidadTIC/Escritorio/Cotizador.html",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/dice.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/RomanosClass.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/Integer.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/BirthdayHelper.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/superpower.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/Ranges.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/Tiempo.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/DirToPlaylist.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/OrdenarLista.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/ContinentSize.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/factorial.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/Romanos.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/SayMoo.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/Duby.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/SortingArray.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/TableOfContentsWithArrays.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/array.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/LeapYears.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/DeafGrandma.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/Elefantes.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/99Bottles.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/SuGracia.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/test.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/AgryBoss.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/AngryBoss.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/gets.rb",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/	from D",
+		"/D/Herramientas Laborales/Ruby/Probando Ruby/CuantoTiempo.rb",
+		"/C/Documents and Settings/ComunidadTIC/Datos de programa/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Documents and Settings/ComunidadTIC/Datos de programa/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Documents and Settings/ComunidadTIC/Escritorio/test.htm",
+		"/D/Mis Documentos/Documentos/TESTING/TDD/Libro TDD/supercalculadora_python/supercalculadora.py",
+		"/D/Mis Documentos/Documentos/TESTING/TDD/Libro TDD/supercalculadora_python/ut_supercalculadora.py",
+		"/D/Mis Documentos/Documentos/TESTING/TDD/Libro TDD/supercalculadora_python/Libreta py.txt",
+		"/D/Mis Documentos/Documentos/TESTING/TDD/Libro TDD/supercalculadora_python/unittest.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"narangito",
+			"\"",
+			"valor_numero",
+			"sNumero",
+			"sNurmero",
+			"upcase"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"naranjito",
+			"'",
+			"iCuantasUnidades",
+			"self",
+			"sNumero",
+			"sNurmero"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "EncodingUTF8.rb",
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								240
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 183.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Herramientas Laborales/Ruby/Probando Ruby/Ruby.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true
+}

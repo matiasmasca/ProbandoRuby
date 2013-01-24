@@ -1,0 +1,4 @@
+
+('164'..'165').each do |numero|
+    puts (numero.to_i).chr
+end
