@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"cdo-",
+				"cdo-section"
+			],
+			[
 				"feed",
 				"feed"
 			],
@@ -87,14 +91,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "EncodingUTF8.rb",
-			"settings":
-			{
-				"buffer_size": 314,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
 	"command_palette":
@@ -128,6 +124,23 @@
 	},
 	"file_history":
 	[
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/BooksStore.rb",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/csv_reader.rb",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/BookStore/stock_stats.rb",
+		"/D/Herramientas Laborales/Ruby/Code/tut_classes/stock_stats/csv_reader.rb",
+		"/D/Herramientas Laborales/Ruby/Code/tut_classes/stock_stats/stock_stats.rb",
+		"/D/Herramientas Laborales/Ruby/Code/tut_classes/stock_stats/sales_data_feed.rb",
+		"/D/Herramientas Laborales/Ruby/Code/tut_classes/stock_stats/book_in_stock_8.rb",
+		"/D/Herramientas Laborales/Ruby/Code/tut_classes/stock_stats/book_in_stock.rb",
+		"/D/Herramientas Laborales/Ruby/Code/tut_classes/stock_stats/book_in_stock_1.rb",
+		"/D/Herramientas Laborales/Ruby/Code/tut_classes/stock_stats/book_in_stock_4.rb",
+		"/D/Herramientas Laborales/Ruby/Code/code/sl_csv/csvfile",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/CallBlock.rb",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/Scrap.rb",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/test.rb",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/scrap_.rb",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/scrap_xhtml.rb",
+		"/D/Herramientas Laborales/Ruby/ProbandoRuby/EncodingUTF8.rb",
 		"/C/BORRAME/test.rb",
 		"/D/Herramientas Laborales/Ruby/Probando Ruby/Dragon.rb",
 		"/D/Herramientas Laborales/Ruby/Probando Ruby/TableOfContents.rb",
@@ -217,36 +230,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "EncodingUTF8.rb",
-					"settings":
-					{
-						"buffer_size": 314,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								314,
-								240
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -283,7 +268,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 183.0
+		"height": 162.0
 	},
 	"replace":
 	{

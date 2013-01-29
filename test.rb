@@ -13,3 +13,14 @@ puts 'Hello, ' + name + '.'
 if name == 'Matias'
 puts 'What a lovely name!'
 end
+
+
+#Bloque Comentario Multilinea
+=begin
+aca va un comentario multilinea...
+...y que continua aqui
+y aqui...
+
+
+y aqui...
+=end

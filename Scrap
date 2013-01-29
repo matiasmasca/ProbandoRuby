@@ -1,0 +1,8 @@
+
+#Scraping.
+require ‘open-uri’ #Importar URi! Con i.
+url = 'http://dictionary.cambridge.org/dictionary/british/hello'
+page = open(url)
+text = page.read; nil #pasa el codigo fuente de la pagina a text.
+
+text.scan(/expresión_regular/) #buscar lo que queremos
